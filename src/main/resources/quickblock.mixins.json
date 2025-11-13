@@ -3,7 +3,8 @@
 	"package": "com.example.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"BlockPlaceSpeedMixin",
+		"ItemMergeMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
